@@ -33,7 +33,7 @@ test:
 
 about:
   home: https://github.com/pycontribs/xmlrunner
-  license: LGPL-3.0
+  license: LGPL-3.0-only
   # LICENSE possibily can be omitted in the next release
   # https://github.com/pycontribs/xmlrunner/blob/master/MANIFEST.in#L2
   license_file: LICENSE
